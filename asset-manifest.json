@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/experiment-edward-hide-send-box-per-activity/static/css/main.f94e3a5b.chunk.css",
+    "main.js": "/experiment-edward-hide-send-box-per-activity/static/js/main.8cf90820.chunk.js",
+    "main.js.map": "/experiment-edward-hide-send-box-per-activity/static/js/main.8cf90820.chunk.js.map",
+    "runtime-main.js": "/experiment-edward-hide-send-box-per-activity/static/js/runtime-main.1680f38f.js",
+    "runtime-main.js.map": "/experiment-edward-hide-send-box-per-activity/static/js/runtime-main.1680f38f.js.map",
+    "static/js/2.524f9d4c.chunk.js": "/experiment-edward-hide-send-box-per-activity/static/js/2.524f9d4c.chunk.js",
+    "static/js/2.524f9d4c.chunk.js.map": "/experiment-edward-hide-send-box-per-activity/static/js/2.524f9d4c.chunk.js.map",
+    "static/js/3.f9ce99c6.chunk.js": "/experiment-edward-hide-send-box-per-activity/static/js/3.f9ce99c6.chunk.js",
+    "static/js/3.f9ce99c6.chunk.js.map": "/experiment-edward-hide-send-box-per-activity/static/js/3.f9ce99c6.chunk.js.map",
+    "index.html": "/experiment-edward-hide-send-box-per-activity/index.html",
+    "static/css/main.f94e3a5b.chunk.css.map": "/experiment-edward-hide-send-box-per-activity/static/css/main.f94e3a5b.chunk.css.map",
+    "static/js/2.524f9d4c.chunk.js.LICENSE.txt": "/experiment-edward-hide-send-box-per-activity/static/js/2.524f9d4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1680f38f.js",
+    "static/js/2.524f9d4c.chunk.js",
+    "static/css/main.f94e3a5b.chunk.css",
+    "static/js/main.8cf90820.chunk.js"
+  ]
+}
